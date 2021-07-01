@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_name": "Dawn",
+    "theme_name": "Dawn Folk",
     "theme_version": "1.0.0",
-    "theme_author": "Shopify",
-    "theme_documentation_url": "https://shopify.dev/themes/tools/dawn",
-    "theme_support_url": "https://support.shopify.com/"
+    "theme_author": "Simon Lawrenson",
+    "theme_documentation_url": "https://lawrenson.dev/",
+    "theme_support_url": "https://lawrenson.dev/contact"
   },
   {
     "name": "t:settings_schema.colors.name",
